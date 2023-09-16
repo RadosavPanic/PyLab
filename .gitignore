@@ -1,0 +1,24 @@
+# OS or Editor folders
+.idea/
+.vscode/
+*.swp
+*~
+
+# Output files -> Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python env
+venv/
+env/
+
+# Dependency directories
+node_modules/
