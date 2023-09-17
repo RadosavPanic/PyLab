@@ -1,4 +1,10 @@
-# Hanging game
+# Hangman game
+"""
+Program random chooses one word from a static list, then it
+begin a process of guessing. Placeholder for non-right letters
+is underscore letter, while right guessed letters are replaced
+with underscore.
+"""
 
 import random
 from hangman_game_utils import print_welcome_message
