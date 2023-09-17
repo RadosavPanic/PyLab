@@ -1,7 +1,7 @@
 # Hanging game
 
 import random
-from hanging_game_utils import print_welcome_message
+from hangman_game_utils import print_welcome_message
 
 print_welcome_message()
 
