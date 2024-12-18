@@ -1,0 +1,3 @@
+Python is a general-purpose, high-level, object-oriented programming language.
+It's used for web development, machine learning, data science and more.
+Python has a simple syntax, but is very powerful.
