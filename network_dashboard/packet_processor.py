@@ -1,4 +1,4 @@
-from dashboard import logger
+from logger_util import logger
 from scapy.all import *
 import pandas as pd
 from datetime import datetime
